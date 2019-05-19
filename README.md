@@ -6,4 +6,4 @@ Config for running keepalived on hetzner cloud
 - Install python3 
 - Configure IP Addresses and Hetzner API Token in hcloud-failover/config.json
 - Configure IP Addresses in keepalived.conf
-- start/enable keepalived
+- start/enable keepalived (systemctl start keepalived)
